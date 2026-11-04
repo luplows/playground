@@ -6,4 +6,4 @@ This repository is under the MIT licence.
 
 This is a scratch repository for trying steward.
 
-Contact: open an issue on this repository.
+Contact: luplows, through an issue on this repository.
