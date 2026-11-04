@@ -55,6 +55,7 @@ on:
 permissions:
   contents: write
   pull-requests: write
+  issues: write
   statuses: read
   # For reading the head's check runs (`runway`); nothing else.
   checks: read
