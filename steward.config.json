@@ -1,6 +1,9 @@
 {
   "repo": "luplows/playground",
-  "setup": null,
+  "setup": {
+    "command": "node scripts/setup.js",
+    "timeoutMinutes": 1
+  },
   "check": null,
   "landWhen": "all-checks",
   "land": false,
