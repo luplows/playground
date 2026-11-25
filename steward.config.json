@@ -1,0 +1,10 @@
+{
+  "repo": "luplows/playground",
+  "setup": null,
+  "check": null,
+  "landWhen": "all-checks",
+  "land": true,
+  "unitLinks": ["file", "issue"],
+  "rulesFile": "REVIEW.md",
+  "inspectAfterHours": 24
+}
