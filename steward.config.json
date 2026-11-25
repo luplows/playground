@@ -1,7 +1,7 @@
 {
   "repo": "luplows/playground",
   "setup": {
-    "command": "node scripts/setup.js",
+    "command": "node scripts/slow-setup.js",
     "timeoutMinutes": 1
   },
   "check": null,
